@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Trofim\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Trofim\\.nuget\\packages"
+    ]
+  }
+}
